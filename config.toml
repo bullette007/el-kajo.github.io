@@ -1,5 +1,5 @@
 title = "EL KAJÓ"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://el-kajo.de"
 theme = ["ananke"]
 #resourceDir = "../resources"
 
