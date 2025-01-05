@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-omit_header_text: true
+#omit_header_text: true
 description: Wir spielen gerne für Euch!
 type: page
 menu: main
