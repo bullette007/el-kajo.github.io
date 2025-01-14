@@ -21,6 +21,4 @@ aufkeimen. Er begann zu tanzen und zu singen und fand endlich Freude, Glück und
 
 Der Mann blieb auf EL KAJÓ, lernte auch zu musizieren und wie man in Einklang mit der Natur lebte. Er fand Freunde und wurde selbst Teil der glücklichen Gemeinschaft auf der Insel.
 
-So leben die Menschen auf EL KAJÓ weiterhin in Freude und Harmonie und teilen ihre Musik mit allen, die zu ihnen kommen. Die Musik auf der Insel ist wie ein Zauber, der alle verbindet und das Leben zum Singen 
-
-bringt.
+So leben die Menschen auf EL KAJÓ weiterhin in Freude und Harmonie und teilen ihre Musik mit allen, die zu ihnen kommen. Die Musik auf der Insel ist wie ein Zauber, der alle verbindet und das Leben zum Singen bringt.
