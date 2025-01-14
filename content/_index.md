@@ -7,7 +7,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/band.jpg'
 ---
-### Es war einmal eine kleine Insel mit dem Namen EL KAJÓ, weit draußen im Meer, auf der waren die Menschen glücklich und zufrieden. Die Sonne schien, das Wasser war kristallklar und die Luft war voller Musik. Die Inselbewohner lebten in Harmonie und Freude, und das Geheimnis ihres Glücks war die Musik.
+Es war einmal eine kleine Insel mit dem Namen EL KAJÓ, weit draußen im Meer, auf der waren die Menschen glücklich und zufrieden. Die Sonne schien, das Wasser war kristallklar und die Luft war voller Musik. Die Inselbewohner lebten in Harmonie und Freude, und das Geheimnis ihres Glücks war die Musik.
 
 Jeden Tag spielten die Menschen auf EL KAJÓ Musik und tanzten zusammen. Sie sangen Lieder über die Freundschaft, die Liebe, die Natur und das Leben.
 
