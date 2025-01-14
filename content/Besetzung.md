@@ -3,6 +3,7 @@ title: Besetzung
 #omit_header_text: true
 type: page
 menu: main
+---
 
 | <!-- -->      | <!-- -->        | <!-- -->      |
 |:-------------:|:---------------:|:-------------:|
@@ -10,4 +11,3 @@ menu: main
 | **Piano:**      | Johannes Meyer  | *Deutschland* |
 | **Percussion:** | Kai Niedernberg | *Deutschland* |
 
----
