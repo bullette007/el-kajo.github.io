@@ -5,8 +5,8 @@ type: page
 menu: main
 ---
 
-| <!-- -->      | <!-- -->        | <!-- -->      |
-|:-------------  |:---------------|:------------- |
-|**Vocals:**     |Eliane Baudot   |*Brasilien*    |
-|**Piano:**      |Johannes Meyer  |*Deutschland*  |
-|**Percussion:** |Kai Niedernberg |*Deutschland*  |
+| <!-- -->        | <!-- -->        | <!-- -->      |
+|:-------------   |:--------------- |:------------- |
+|**Vocals:**      |Eliane Baudot    |*Brasilien*    |
+|**Piano:**       |Johannes Meyer   |*Deutschland*  |
+|**Percussion:**  |Kai Niedernberg  |*Deutschland*  |
