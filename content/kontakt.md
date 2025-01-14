@@ -4,7 +4,7 @@ title: Kontakt
 description: Wir spielen gerne für Euch!
 type: page
 menu: main
-featured_image: '/images/band.jpg'
+featured_image: '/images/band2.jpg'
 featured_image_class: "cover bg-top"
 ---
 
