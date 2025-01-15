@@ -1,7 +1,6 @@
 ---
-title: "EL KAJÓ"
+title: <span style="color:red"> "EL KAJÓ" </span
 
-#description: "Was bedeutet EL KAJÓ"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
