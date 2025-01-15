@@ -4,7 +4,8 @@ title: Die Legende
 type: page
 menu: main
 featured_image: '/images/Bild Legende2.jpg'
-featured_image_class: "cover bg-top"
+featured_image_class: "cover bg-center"
+cover_dimming_class: "bg-black-20"
 ---
 
 Es war einmal eine kleine Insel mit dem Namen EL KAJÓ, weit draußen im Meer, auf der waren die Menschen glücklich und zufrieden. Die Sonne schien, das Wasser war kristallklar und die Luft war voller Musik. Die 

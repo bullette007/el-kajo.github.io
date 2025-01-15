@@ -1,10 +1,9 @@
 ---
 title: "EL KAJÓ" 
+#type: page
+#menu: main
+featured_image: '/images/band2.jpg'
 
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
-theme_version: '2.8.2'
-cascade:
-  featured_image: '/images/band2.jpg'
 ---
 EL KAJO ist ein Trio das nicht im Vordergrund stehen muss. Sanfter Bosa Nova für eine entspannte Stimmung. 
 

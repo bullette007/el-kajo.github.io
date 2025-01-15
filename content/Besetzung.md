@@ -4,7 +4,8 @@ title: Besetzung
 type: page
 menu: main
 featured_image: '/images/VocKeyPerc2.jpg'
-featured_image_class: "cover bg-top"
+featured_image_class: "cover bg-center"
+cover_dimming_class: "bg-black-20"
 ---
 
 | <!-- -->        | <!-- -->        | <!-- -->      |

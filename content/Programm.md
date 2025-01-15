@@ -5,6 +5,7 @@ type: page
 menu: main
 featured_image: '/images/LOGO.jpg'
 featured_image_class: "cover bg-top"
+cover_dimming_class: "bg-black-20"
 ---
 
 1. Mas que nada
