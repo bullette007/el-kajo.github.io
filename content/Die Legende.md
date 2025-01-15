@@ -13,11 +13,15 @@ Inselbewohner lebten in Harmonie und Freude, und das Geheimnis ihres Glücks war
 
 Jeden Tag spielten die Menschen auf EL KAJÓ Musik und tanzten zusammen. Sie sangen Lieder über die Freundschaft, die Liebe, die Natur und das Leben. 
 
-Die Musik auf EL KAJÓ war so magisch, dass sogar Tiere sich in den Rhythmen verloren. Die Vögel sangen oft mit. Die Inselbewohner lebten im Einklang mit der Natur und genossen jeden Moment.
+Die Musik auf EL KAJÓ war so magisch, dass sogar Tiere sich in den Rhythmen verloren. Die Vögel sangen oft mit. 
 
-Eines Tages kam ein Mann nach EL KAJÓ, der unglücklich und unzufrieden war. Er hatte alles, was er wollte, aber er fühlte sich immer leer. Als er jedoch die Musik der Insel hörte, spürte er etwas in sich 
+Die Inselbewohner lebten im Einklang mit der Natur und genossen jeden Moment.
 
-aufkeimen. Er begann zu tanzen und zu singen und fand endlich Freude, Glück und Ruhe.
+Eines Tages kam ein Mann nach EL KAJÓ, der unglücklich und unzufrieden war. Er hatte alles, was er wollte, aber er fühlte sich immer leer. 
+
+Als er jedoch die Musik der Insel hörte, spürte er etwas in sich aufkeimen.
+
+Er begann zu tanzen und zu singen und fand endlich Freude, Glück und Ruhe.
 
 Der Mann blieb auf EL KAJÓ, lernte auch zu musizieren und wie man in Einklang mit der Natur lebte. Er fand Freunde und wurde selbst Teil der glücklichen Gemeinschaft auf der Insel.
 
