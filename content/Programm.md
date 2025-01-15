@@ -17,24 +17,24 @@ featured_image_class: "cover bg-top"
 8. Take 5
 9. Autum Leaves
 10. Hit the road Jack
-11.0Fly me to the 
-11. Caravan
-12. Summertime
-13. Pra que chorar
-14. ave
-15. Chiclete con Banana
-16. Smooth Oparator
-All my lovings
-17. Insensatez
-18. Aquarella do Brasil
-19. After dark
-20. Balanço Zona Sul
-22. Song for my father
-23. Favela
-24. Stand by me
-25. Meu Cora Cau
-16 Tonneladas
-26. Desafinado
-27. Agua de beber
+11. Fly me to the 
+12. Caravan
+13. Summertime
+14. Pra que chorar
+15. ave
+16. Chiclete con Banana
+17. Smooth Oparator
+18. All my lovings
+19. Insensatez
+20. Aquarella do Brasil
+21. After dark
+22. Balanço Zona Sul
+23. Song for my father
+24. Favela
+25. Stand by me
+26. Meu Cora Cau
+27 Tonneladas
+28. Desafinado
+29. Agua de beber
 
 28. **To be continued**
