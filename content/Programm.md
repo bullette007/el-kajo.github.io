@@ -21,7 +21,7 @@ featured_image_class: "cover bg-top"
 12. Caravan
 13. Summertime
 14. Pra que chorar
-15. ave
+15. Wave
 16. Chiclete con Banana
 17. Smooth Oparator
 18. All my lovings
@@ -32,9 +32,8 @@ featured_image_class: "cover bg-top"
 23. Song for my father
 24. Favela
 25. Stand by me
-26. Meu Cora Cau
-27. Tonneladas
-28. Desafinado
-29. Agua de beber
+26. Tonneladas
+27. Desafinado
+28. Agua de beber
 
 **To be continued**
