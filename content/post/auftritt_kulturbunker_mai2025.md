@@ -13,4 +13,5 @@ Der erste (geplante) Gig im neuen Jahr findet statt am
 
 **10. Mai 2025** im **Kulturbunker** in Daxlanden.
 
-Details folgen.
+Einlass ab 19.30 Uhr Beginn um 20 Uhr   
+Eintritt frei, Spenden Willkommen. 
