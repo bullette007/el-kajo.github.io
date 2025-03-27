@@ -11,6 +11,6 @@ title: "Auftritt im Europaschule am 28.06.2025"
 
 Am **28. Juni 2025** spielen wir zum 4. Mal bei dem 
 
-Sommerfest der Europaschulein Karlsruhe.
+Sommerfest der Europaschule Karlsruhe.
 
 Details folgen.
