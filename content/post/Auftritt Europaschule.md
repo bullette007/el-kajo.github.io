@@ -9,8 +9,8 @@ tags: ["auftritt"]
 title: "Auftritt im Europaschule am 28.06.2025"
 ---
 
-Zum 4. Mal spielen wir bei dem Sommerfest
+Am **28. Juni 2025** spielen wir zum 4. Mal bei dem 
 
-**28. Juni 2025** im Der Europaschulein Karlsruhe.
+Sommerfest der Europaschulein Karlsruhe.
 
 Details folgen.
