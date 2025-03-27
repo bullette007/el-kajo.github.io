@@ -6,7 +6,7 @@ featured_image_class: "cover bg-top"
 cover_dimming_class: "bg-black-20"
 #toc: true
 tags: ["auftritt"]
-title: "Auftritt im Europaschule am 28.06.2025"
+title: "Auftritt in der Europaschule am 28.06.2025"
 ---
 
 Am **28. Juni 2025** spielen wir zum 4. Mal 
