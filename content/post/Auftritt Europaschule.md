@@ -15,4 +15,4 @@ bei dem Sommerfest
 
 der **Europaschule Karlsruhe**.
 
-Details folgen.
+Konzertbeginn 15 Uhr
